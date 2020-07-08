@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa745623-7ef7-4c44-9dac-1e274133c0fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eNHSKRCpSKEG4mcLgSf3fslRdu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+      <command value="mvn clean compile assembly:single" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProjectMain">
+    <configuration name="ProjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.flexon.jdbc.Driver.ProjectMain" />
+      <module name="JDBCProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flexon.jdbc.Driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCProject-0.0.1-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/JDBCProject-0.0.1-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JDBCProject-0.0.1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/JDBCProject-0.0.1.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectMain" />
+        <item itemvalue="JAR Application.JDBCProject-0.0.1-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.JDBCProject-0.0.1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../474Project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../a/474Project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../courseproject/474Project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../external-command-execution-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../external-command-execution-framework-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../graphql-client-github" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa745623-7ef7-4c44-9dac-1e274133c0fd" name="Default Changelist" comment="" />
+      <created>1594155128867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594155128867</updated>
+      <workItem from="1594155133641" duration="58000" />
+      <workItem from="1594155206033" duration="23000" />
+      <workItem from="1594155240049" duration="4335000" />
+      <workItem from="1594160031851" duration="6893000" />
+      <workItem from="1594168255604" duration="9339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1392" height="375" key="GridCell.Tab.0.bottom" timestamp="1594181726212">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1440" height="113" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594167545804" />
+    <state width="1395" height="237" key="GridCell.Tab.0.bottom/45.23.1395.877@45.23.1395.877" timestamp="1594159182841" />
+    <state width="1392" height="305" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1594166635054" />
+    <state width="1392" height="211" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1594168807077" />
+    <state width="1392" height="375" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1594181726212" />
+    <state width="1392" height="375" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1594180609305" />
+    <state width="1392" height="375" key="GridCell.Tab.0.center" timestamp="1594181726211">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1440" height="113" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594167545803" />
+    <state width="1395" height="237" key="GridCell.Tab.0.center/45.23.1395.877@45.23.1395.877" timestamp="1594159182840" />
+    <state width="1392" height="305" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1594166635053" />
+    <state width="1392" height="211" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1594168807076" />
+    <state width="1392" height="375" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1594181726211" />
+    <state width="1392" height="375" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1594180609304" />
+    <state width="1392" height="375" key="GridCell.Tab.0.left" timestamp="1594181726210">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1440" height="113" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594167545802" />
+    <state width="1395" height="237" key="GridCell.Tab.0.left/45.23.1395.877@45.23.1395.877" timestamp="1594159182840" />
+    <state width="1392" height="305" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1594166635053" />
+    <state width="1392" height="211" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1594168807075" />
+    <state width="1392" height="375" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1594181726210" />
+    <state width="1392" height="375" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1594180609304" />
+    <state width="1392" height="375" key="GridCell.Tab.0.right" timestamp="1594181726211">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1440" height="113" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594167545803" />
+    <state width="1395" height="237" key="GridCell.Tab.0.right/45.23.1395.877@45.23.1395.877" timestamp="1594159182840" />
+    <state width="1392" height="305" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1594166635054" />
+    <state width="1392" height="211" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1594168807076" />
+    <state width="1392" height="375" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1594181726211" />
+    <state width="1392" height="375" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1594180609305" />
+    <state width="1392" height="368" key="GridCell.Tab.1.bottom" timestamp="1594168250900">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="106" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594167545642" />
+    <state width="1392" height="106" key="GridCell.Tab.1.bottom/47.23.1393.877@47.23.1393.877" timestamp="1594163342318" />
+    <state width="1392" height="368" key="GridCell.Tab.1.bottom/48.23.1392.877@48.23.1392.877" timestamp="1594168250900" />
+    <state width="1392" height="368" key="GridCell.Tab.1.center" timestamp="1594168250899">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="106" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594167545641" />
+    <state width="1392" height="106" key="GridCell.Tab.1.center/47.23.1393.877@47.23.1393.877" timestamp="1594163342317" />
+    <state width="1392" height="368" key="GridCell.Tab.1.center/48.23.1392.877@48.23.1392.877" timestamp="1594168250899" />
+    <state width="1392" height="368" key="GridCell.Tab.1.left" timestamp="1594168250899">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="106" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594167545640" />
+    <state width="1392" height="106" key="GridCell.Tab.1.left/47.23.1393.877@47.23.1393.877" timestamp="1594163342317" />
+    <state width="1392" height="368" key="GridCell.Tab.1.left/48.23.1392.877@48.23.1392.877" timestamp="1594168250899" />
+    <state width="1392" height="368" key="GridCell.Tab.1.right" timestamp="1594168250899">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1392" height="106" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594167545642" />
+    <state width="1392" height="106" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1594163342318" />
+    <state width="1392" height="368" key="GridCell.Tab.1.right/48.23.1392.877@48.23.1392.877" timestamp="1594168250899" />
+    <state x="193" y="43" key="SettingsEditor" timestamp="1594168105931">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="190" y="43" key="SettingsEditor/45.23.1395.877@45.23.1395.877" timestamp="1594159147194" />
+    <state x="193" y="43" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1594168105931" />
+    <state x="409" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594160529567">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="409" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/48.23.1392.877@48.23.1392.877" timestamp="1594160529567" />
+    <state x="410" y="211" width="670" height="675" key="run.anything.popup" timestamp="1594179614947">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state x="409" y="211" width="670" height="675" key="run.anything.popup/50.23.1390.877@50.23.1390.877" timestamp="1594173187673" />
+    <state x="410" y="211" width="670" height="675" key="run.anything.popup/52.23.1388.877@52.23.1388.877" timestamp="1594179614947" />
+  </component>
+</project>
