@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class ProjectMain {
     static int option;
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://192.168.1.99:3306/company?allowPublicKeyRetrieval=true&useSSL=false"; //?user=root&password=supersecret&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT&useSSL=false";
+    static final String DB_URL = "jdbc:mysql://35.153.50.120:3306/company?allowPublicKeyRetrieval=true&useSSL=false"; //?user=root&password=supersecret&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT&useSSL=false";
     static final String USER = "root";
     static final String PASS = "supersecret";
     //static final String connectionString = "jdbc:mysql://127.0.0.31:3306/company" + "?user=" + USER + "&password=" + PASS + "&useUnicode=true&characterEncoding=UTF-8";
